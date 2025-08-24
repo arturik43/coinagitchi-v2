@@ -1,0 +1,8 @@
+{
+    "name": "Coinagitchi",
+    "description": "A placeholder NFT for the Coinagitchi project",
+    "attributes": [
+        {"trait_type": "level", "value": 1},
+        {"trait_type": "xp", "value": 0}
+    ]
+}
